@@ -1,0 +1,14 @@
+{
+  "name": "serial-port-1938",
+  "version": "1.0.0",
+  "description": "Repro of https://github.com/serialport/node-serialport/issues/1938",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^12.0.0"
+  }
+}
